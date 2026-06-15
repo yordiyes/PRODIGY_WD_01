@@ -14,8 +14,3 @@ A responsive and modern landing page designed to highlight web design and develo
 
 ## Preview
 View the live project: [Landing Page Live Demo](https://yordiyes.github.io/Landing-Page/)
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yordiyes/Landing-Page.git
