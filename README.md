@@ -12,5 +12,3 @@ A responsive and modern landing page designed to highlight web design and develo
 - **CSS3**
 - **Bootstrap**
 
-## Preview
-View the live project: [Landing Page Live Demo](https://yordiyes.github.io/Landing-Page/)
