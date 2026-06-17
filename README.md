@@ -9,6 +9,6 @@ A responsive and modern landing page designed to highlight web design and develo
 
 ## Technologies Used
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **Bootstrap**
 
